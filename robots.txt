@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://avelynryan.github.io/sitemap.xml
+Sitemap: https://zarlix.github.io/sitemap.xml
