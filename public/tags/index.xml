@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>https://example.org/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on Liva | Personal blog template</title>
+    <link>http://localhost:1313/zarxstar.github.io/tags/</link>
+    <description>Recent content in Tags on Liva | Personal blog template</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Dec 2024 10:07:47 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/zarxstar.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writing Competitions</title>
+      <link>http://localhost:1313/zarxstar.github.io/tags/writing-competitions/</link>
+      <pubDate>Fri, 20 Dec 2024 10:07:47 +0600</pubDate>
+      <guid>http://localhost:1313/zarxstar.github.io/tags/writing-competitions/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Topics</title>
+      <link>http://localhost:1313/zarxstar.github.io/tags/topics/</link>
+      <pubDate>Thu, 19 Dec 2024 10:07:47 +0600</pubDate>
+      <guid>http://localhost:1313/zarxstar.github.io/tags/topics/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
