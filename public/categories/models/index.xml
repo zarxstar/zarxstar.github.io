@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Models on Liva | Personal blog template</title>
-    <link>https://zarxstar.github.io/categories/models/</link>
-    <description>Recent content in Models on Liva | Personal blog template</description>
+    <title>Models on Zarx | Personal Blog</title>
+    <link>http://localhost:1313/zarxstar.github.io/categories/models/</link>
+    <description>Recent content in Models on Zarx | Personal Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Dec 2024 10:07:47 +0600</lastBuildDate>
-    <atom:link href="https://zarxstar.github.io/categories/models/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zarxstar.github.io/categories/models/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mind Toolbox</title>
-      <link>https://zarxstar.github.io/blog/post-4/</link>
+      <link>http://localhost:1313/zarxstar.github.io/blog/post-4/</link>
       <pubDate>Fri, 20 Dec 2024 10:07:47 +0600</pubDate>
-      <guid>https://zarxstar.github.io/blog/post-4/</guid>
+      <guid>http://localhost:1313/zarxstar.github.io/blog/post-4/</guid>
       <description>&lt;h2 id=&#34;the-map-is-not-the-territory&#34;&gt;The Map is Not the Territory&lt;/h2&gt;&#xA;&lt;p&gt;The map is not the territory reminds us that our mental models of the world are not the same as the world itself. It cautions against confusing our abstractions and representations with the complex, ever-shifting reality they aim to describe.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Scientific Mindset Toolbox</title>
-      <link>https://zarxstar.github.io/blog/post-5/</link>
+      <link>http://localhost:1313/zarxstar.github.io/blog/post-5/</link>
       <pubDate>Fri, 20 Dec 2024 10:07:47 +0600</pubDate>
-      <guid>https://zarxstar.github.io/blog/post-5/</guid>
+      <guid>http://localhost:1313/zarxstar.github.io/blog/post-5/</guid>
       <description>&lt;h2 id=&#34;relativity&#34;&gt;Relativity&lt;/h2&gt;&#xA;&lt;p&gt;Relativity is the idea that our perceptions and judgments are not absolute but are shaped by our unique vantage points and frames of reference. It’s the understanding that our experiences are subjective.&lt;/p&gt;</description>
     </item>
   </channel>
