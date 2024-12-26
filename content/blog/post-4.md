@@ -16,7 +16,7 @@ categories:
 # post type
 type: "post"
 ---
-## The Map is Not the Territory
+#### The Map is Not the Territory
 
 The map is not the territory reminds us that our mental models of the world are not the same as the world itself. It cautions against confusing our abstractions and representations with the complex, ever-shifting reality they aim to describe.
 
@@ -30,7 +30,7 @@ Ultimately, the map/territory distinction invites us to engage with the world as
 
 ---
 
-## Circle of Competence
+#### Circle of Competence
 
 The first rule of competition is that you are more likely to win if you play where you have an advantage. Playing to your advantage requires a firm understanding of what you know and don’t know.
 
@@ -44,7 +44,7 @@ Celebrate your expertise, but also acknowledge your limitations.
 
 ---
 
-## First Principles Thinking
+#### First Principles Thinking
 
 First principles thinking is the art of breaking down complex problems into their fundamental truths. It’s a way of thinking that goes beyond the surface and allows us to see things from a new perspective.
 
@@ -56,7 +56,7 @@ In a world focused on incremental improvement, first principles thinking offers 
 
 ---
 
-## Thought Experiment
+#### Thought Experiment
 
 Thought experiments are the sandbox of the mind, the place where we can play with ideas without constraints. They’re a way of exploring the implications of our theories, of testing the boundaries of our understanding. They offer a powerful tool for clarifying our thinking, revealing hidden assumptions, and showing us unintended consequences.
 
@@ -66,7 +66,7 @@ Thought experiments remind us that some of the most profound insights and innova
 
 ---
 
-## Second-Order Thinking
+#### Second-Order Thinking
 
 Second-order thinking is a method of thinking that goes beyond the surface level, beyond the knee-jerk reactions and short-term gains. It asks us to play the long game, to anticipate the ripple effects of our actions, and to make choices that will benefit us not just today but in the months and years to come.
 
@@ -82,7 +82,7 @@ In the end, second-order thinking is about playing the long game. It’s about m
 
 ---
 
-## Probabilistic Thinking
+#### Probabilistic Thinking
 
 Probabilistic thinking is the art of navigating uncertainty. Successfully thinking in shades of probability means roughly identifying what matters, calculating the odds, checking our assumptions, and then deciding.
 
@@ -94,7 +94,7 @@ By embracing uncertainty, we can make better decisions, avoid the pitfalls of ov
 
 ---
 
-## Inversion
+#### Inversion
 
 Much of success comes from simply avoiding common paths to failure.
 
@@ -108,7 +108,7 @@ When facing a tricky problem or ambitious goal, try inverting. Ask how you’d g
 
 ---
 
-## Occam’s Razor
+#### Occam’s Razor
 
 Occam’s razor is the intellectual equivalent of “keep it simple.”
 
@@ -118,7 +118,7 @@ A theory that is too simple fails to capture reality, and one that is too comple
 
 ---
 
-## Hanlon’s Razor
+#### Hanlon’s Razor
 
 Hanlon’s razor is a mental safeguard against the temptation to label behavior as malicious when incompetence is the most common response. It’s a reminder that people are not out to get you, and it’s best to assume good faith and resist the urge to assign sinister motives without overwhelming evidence.
 

@@ -86,9 +86,9 @@ author = "ZARX"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
-location = "Dhaka, Bangladedsh"
+#mobile = "0124857985320"
+email = "zhenlijen@gmail.com"
+location = "Saratoga, CA"
 # copyright
 copyright = "| copyright &copy; 2021 [Themefisher](https://themefisher.com/hugo-themes/) All Rights Reserved |"
 
@@ -103,7 +103,7 @@ enable = true
 
 ############################ news letter ########################
 [params.newsletter]
-enable = true
+enable = false
 title = "Join Our Newsletter"
 content = "Lorem ipsum dolor sit amet,  sed diam voluptua. At vero"
 

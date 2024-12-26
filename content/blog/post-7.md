@@ -16,7 +16,7 @@ tags:
 - "topics"
 
 # post type
-type: "featured"
+type: "post"
 ---
 Grades are the expression of a student’s achievement in a given class. All for-credit courses except P.E. are included in a student’s grade point average. The academic year is divided into two semesters and students receive report cards at the end of each semester. The semester grade comprises a student’s cumulative average over a given semester and a student’s grade on the final exam for that course. Final exams are given in December for the first semester courses and in June for the second semester courses. The semester grade that is reported in January and June becomes part of the student’s permanent record and appears on the Harker transcript. Three to four times during each semester, students also receive a mid-semester progress report. This internal document provides a snapshot grade taken at that point in the semester.
 
