@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Zarx | Personal Blog</title>
-    <link>http://localhost:1313/zarxstar.github.io/tags/</link>
+    <link>https://zarxstar.github.io/tags/</link>
     <description>Recent content in Tags on Zarx | Personal Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Dec 2024 10:07:47 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/zarxstar.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zarxstar.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Writing Competitions</title>
-      <link>http://localhost:1313/zarxstar.github.io/tags/writing-competitions/</link>
+      <link>https://zarxstar.github.io/tags/writing-competitions/</link>
       <pubDate>Fri, 20 Dec 2024 10:07:47 +0600</pubDate>
-      <guid>http://localhost:1313/zarxstar.github.io/tags/writing-competitions/</guid>
+      <guid>https://zarxstar.github.io/tags/writing-competitions/</guid>
       <description></description>
     </item>
     <item>
       <title>Topics</title>
-      <link>http://localhost:1313/zarxstar.github.io/tags/topics/</link>
+      <link>https://zarxstar.github.io/tags/topics/</link>
       <pubDate>Thu, 19 Dec 2024 10:07:47 +0600</pubDate>
-      <guid>http://localhost:1313/zarxstar.github.io/tags/topics/</guid>
+      <guid>https://zarxstar.github.io/tags/topics/</guid>
       <description></description>
     </item>
   </channel>
