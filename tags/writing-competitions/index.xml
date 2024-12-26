@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Writing Competitions on Liva | Personal blog template</title>
-    <link>https://zarxstar.github.io/tags/writing-competitions/</link>
-    <description>Recent content in Writing Competitions on Liva | Personal blog template</description>
+    <title>Writing Competitions on Zarx | Personal Blog</title>
+    <link>http://localhost:1313/zarxstar.github.io/tags/writing-competitions/</link>
+    <description>Recent content in Writing Competitions on Zarx | Personal Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Dec 2024 10:07:47 +0600</lastBuildDate>
-    <atom:link href="https://zarxstar.github.io/tags/writing-competitions/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zarxstar.github.io/tags/writing-competitions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Power of Writing Contests: Why Every Student Should Participate</title>
-      <link>https://zarxstar.github.io/blog/post-2/</link>
+      <link>http://localhost:1313/zarxstar.github.io/blog/post-2/</link>
       <pubDate>Fri, 20 Dec 2024 10:07:47 +0600</pubDate>
-      <guid>https://zarxstar.github.io/blog/post-2/</guid>
+      <guid>http://localhost:1313/zarxstar.github.io/blog/post-2/</guid>
       <description>&lt;p&gt;In today’s competitive academic and creative landscape, writing contests offer students an invaluable opportunity to showcase their talent, refine their skills, and gain recognition. Participating in writing contests can shape a young writer’s confidence, creativity, and future opportunities. For aspiring writers, researchers, or thinkers, these competitions provide more than accolades; they provide a platform to make their voices heard.&lt;/p&gt;</description>
     </item>
   </channel>

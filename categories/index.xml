@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Liva | Personal blog template</title>
-    <link>https://zarxstar.github.io/categories/</link>
-    <description>Recent content in Categories on Liva | Personal blog template</description>
+    <title>Categories on Zarx | Personal Blog</title>
+    <link>http://localhost:1313/zarxstar.github.io/categories/</link>
+    <description>Recent content in Categories on Zarx | Personal Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Dec 2024 10:07:47 +0600</lastBuildDate>
-    <atom:link href="https://zarxstar.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zarxstar.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>College Application</title>
-      <link>https://zarxstar.github.io/categories/college-application/</link>
+      <link>http://localhost:1313/zarxstar.github.io/categories/college-application/</link>
       <pubDate>Fri, 20 Dec 2024 10:07:47 +0600</pubDate>
-      <guid>https://zarxstar.github.io/categories/college-application/</guid>
+      <guid>http://localhost:1313/zarxstar.github.io/categories/college-application/</guid>
       <description></description>
     </item>
     <item>
       <title>Models</title>
-      <link>https://zarxstar.github.io/categories/models/</link>
+      <link>http://localhost:1313/zarxstar.github.io/categories/models/</link>
       <pubDate>Fri, 20 Dec 2024 10:07:47 +0600</pubDate>
-      <guid>https://zarxstar.github.io/categories/models/</guid>
+      <guid>http://localhost:1313/zarxstar.github.io/categories/models/</guid>
       <description></description>
     </item>
     <item>
       <title>Speech and Debate</title>
-      <link>https://zarxstar.github.io/categories/speech-and-debate/</link>
+      <link>http://localhost:1313/zarxstar.github.io/categories/speech-and-debate/</link>
       <pubDate>Thu, 19 Dec 2024 10:07:47 +0600</pubDate>
-      <guid>https://zarxstar.github.io/categories/speech-and-debate/</guid>
+      <guid>http://localhost:1313/zarxstar.github.io/categories/speech-and-debate/</guid>
       <description></description>
     </item>
   </channel>
