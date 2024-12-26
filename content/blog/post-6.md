@@ -4,7 +4,7 @@ date: 2024-12-26T10:07:47+06:00
 draft: false
 
 # post thumb
-image: "images/post/mental-model1.jpg"
+image: "images/post/post-6.jpg"
 
 # meta description
 description: "this is meta description"
