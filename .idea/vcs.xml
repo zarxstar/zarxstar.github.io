@@ -4,5 +4,6 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/public" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/themes/liva-hugo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/liva-hugo-backup" vcs="Git" />
   </component>
 </project>
